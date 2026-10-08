@@ -1,0 +1,8 @@
+{
+  "base_url": "http://vision.lg.china-yongfeng.com/srape-steel",
+  "employee_id": "工号",
+  "password": "密码",
+  "station_numbers": [1],
+  "poll_interval_seconds": 3,
+  "request_timeout_seconds": 8
+}
